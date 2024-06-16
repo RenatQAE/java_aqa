@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_inno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_2/hw_1.java" afterDir="false" />
+    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hxHKwHzmDQSxeRb2QlCFqXyFe7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,10 +40,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.hw_1.executor": "Run",
+    "Application.hw_2.executor": "Run",
+    "Application.task_2.executor": "Run",
+    "Application.task_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +59,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718528750266</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1718532813121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718532813121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
