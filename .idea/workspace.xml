@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/Flat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_3/task_3.java" afterDir="false" />
+    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="&quot;confused&quot;">
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_1_LoveMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/Cactus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/HumiditySensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/HumiditySensorImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/WateringPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_4/hw_array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_5/playground_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,17 +43,113 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cactus.executor": "Run",
+    "Application.Cactus_2.executor": "Run",
+    "Application.DurationTest.executor": "Run",
+    "Application.MovieArray (1).executor": "Run",
+    "Application.MovieArray.executor": "Run",
+    "Application.MyProgram.executor": "Run",
+    "Application.Playground.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Task1Message.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_1_LoveMsg.executor": "Run",
+    "Application.Task_2.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "Application.Task_5.executor": "Run",
+    "Application.Task_6.executor": "Run",
+    "Application.carProgramm.executor": "Run",
+    "Application.certification_task.executor": "Run",
     "Application.hw_1.executor": "Run",
     "Application.hw_2.executor": "Run",
+    "Application.hw_array_1.executor": "Run",
+    "Application.office.executor": "Run",
+    "Application.playground_1.executor": "Run",
+    "Application.task_1.executor": "Run",
     "Application.task_2.executor": "Run",
     "Application.task_3.executor": "Run",
+    "Application.task_4.executor": "Run",
+    "Application.task_5.executor": "Run",
+    "Application.tsts_del.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Cactus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_2.Cactus" />
+      <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntermediateCertification.Task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cactus_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cactus_2" />
+      <module name="java_inno" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_4.MovieArray" />
+      <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_2.Task" />
+      <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntermediateCertification.Task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_1_LoveMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_1_LoveMsg" />
+      <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntermediateCertification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Cactus" />
+        <item itemvalue="Application.Cactus_2" />
+        <item itemvalue="Application.MovieArray" />
+        <item itemvalue="Application.Task_1_LoveMsg" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,12 +167,65 @@
       <option name="project" value="LOCAL" />
       <updated>1718532813121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;second&quot;">
+      <option name="closed" value="true" />
+      <created>1718536159203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718536159203</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;third&quot;">
+      <option name="closed" value="true" />
+      <created>1718539506024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718539506024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;five&quot;">
+      <option name="closed" value="true" />
+      <created>1718821476701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718821476701</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;five&quot;">
+      <option name="closed" value="true" />
+      <created>1718823839507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718823839507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;seven&quot;">
+      <option name="closed" value="true" />
+      <created>1719067763603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719067763603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;confused&quot;">
+      <option name="closed" value="true" />
+      <created>1719163550469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719163550469</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="&quot;second&quot;" />
+    <MESSAGE value="&quot;third&quot;" />
+    <MESSAGE value="&quot;five&quot;" />
+    <MESSAGE value="&quot;seven&quot;" />
+    <MESSAGE value="&quot;confused&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;confused&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
