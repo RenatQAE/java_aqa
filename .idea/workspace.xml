@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="&quot;confused&quot;">
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_1_LoveMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/Cactus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/HumiditySensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/HumiditySensorImplements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_2/WateringPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntermediateCertification/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_4/hw_array_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_5/playground_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WB_Calculations/CashBackWithWbClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WB_Calculations/CashbackCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson9/Start1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsoleAppPlayers-renat.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,51 +31,55 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2hxHKwHzmDQSxeRb2QlCFqXyFe7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cactus.executor": "Run",
-    "Application.Cactus_2.executor": "Run",
-    "Application.DurationTest.executor": "Run",
-    "Application.MovieArray (1).executor": "Run",
-    "Application.MovieArray.executor": "Run",
-    "Application.MyProgram.executor": "Run",
-    "Application.Playground.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Task1Message.executor": "Run",
-    "Application.Task_1.executor": "Run",
-    "Application.Task_1_LoveMsg.executor": "Run",
-    "Application.Task_2.executor": "Run",
-    "Application.Task_3.executor": "Run",
-    "Application.Task_4.executor": "Run",
-    "Application.Task_5.executor": "Run",
-    "Application.Task_6.executor": "Run",
-    "Application.carProgramm.executor": "Run",
-    "Application.certification_task.executor": "Run",
-    "Application.hw_1.executor": "Run",
-    "Application.hw_2.executor": "Run",
-    "Application.hw_array_1.executor": "Run",
-    "Application.office.executor": "Run",
-    "Application.playground_1.executor": "Run",
-    "Application.task_1.executor": "Run",
-    "Application.task_2.executor": "Run",
-    "Application.task_3.executor": "Run",
-    "Application.task_4.executor": "Run",
-    "Application.task_5.executor": "Run",
-    "Application.tsts_del.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cactus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cactus_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CashBackWithWbClub.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DurationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieArray (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SaleConditionCashback.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Start1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1Message.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1_LoveMsg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.carProgramm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.certification_task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hw_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hw_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hw_array_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.office.executor&quot;: &quot;Run&quot;,
+    &quot;Application.playground_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tsts_del.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.CashbackCalculator">
     <configuration name="Cactus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_2.Cactus" />
       <module name="java_inno" />
@@ -94,19 +93,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cactus_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cactus_2" />
+    <configuration name="CashBackWithWbClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WB_Calculations.CashBackWithWbClub" />
       <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_4.MovieArray" />
+    <configuration name="CashbackCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WB_Calculations.CashbackCalculator" />
       <module name="java_inno" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_4.*" />
+          <option name="PATTERN" value="lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson9.Start1" />
+      <module name="java_inno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,26 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1_LoveMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_1_LoveMsg" />
-      <module name="java_inno" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IntermediateCertification.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CashbackCalculator" />
+        <item itemvalue="Application.CashBackWithWbClub" />
+        <item itemvalue="Application.Start1" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Cactus" />
-        <item itemvalue="Application.Cactus_2" />
-        <item itemvalue="Application.MovieArray" />
-        <item itemvalue="Application.Task_1_LoveMsg" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +239,29 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson9/Start1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson9/Start1.java</url>
+          <line>7</line>
+          <properties class="lesson9.Start1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lesson9/Start1.java</url>
+          <line>3</line>
+          <properties class="lesson9.Start1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
