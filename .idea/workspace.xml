@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="&quot;confused&quot;">
-      <change afterPath="$PROJECT_DIR$/src/WB_Calculations/CashBackWithWbClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WB_Calculations/CashbackCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson9/Start1.java" afterDir="false" />
+    <list default="true" id="697325df-e4c7-4733-b174-2855f6f3f6bc" name="Changes" comment="&quot;10 december&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsoleAppPlayers-renat.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,50 +31,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cactus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cactus_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CashBackWithWbClub.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DurationTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieArray (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SaleConditionCashback.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Start1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1Message.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_1_LoveMsg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.carProgramm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.certification_task.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hw_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hw_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hw_array_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.office.executor&quot;: &quot;Run&quot;,
-    &quot;Application.playground_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tsts_del.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cactus.executor": "Run",
+    "Application.Cactus_2.executor": "Run",
+    "Application.CashBackWithWbClub.executor": "Run",
+    "Application.CashbackCalculator.executor": "Run",
+    "Application.DurationTest.executor": "Run",
+    "Application.MovieArray (1).executor": "Run",
+    "Application.MovieArray.executor": "Run",
+    "Application.MyProgram.executor": "Run",
+    "Application.Playground.executor": "Run",
+    "Application.SaleConditionCashback.executor": "Run",
+    "Application.Start1.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Task1Message.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_1_LoveMsg.executor": "Run",
+    "Application.Task_2.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "Application.Task_5.executor": "Run",
+    "Application.Task_6.executor": "Run",
+    "Application.carProgramm.executor": "Run",
+    "Application.certification_task.executor": "Run",
+    "Application.hw_1.executor": "Run",
+    "Application.hw_2.executor": "Run",
+    "Application.hw_array_1.executor": "Run",
+    "Application.office.executor": "Run",
+    "Application.playground_1.executor": "Run",
+    "Application.task_1.executor": "Run",
+    "Application.task_2.executor": "Run",
+    "Application.task_3.executor": "Run",
+    "Application.task_4.executor": "Run",
+    "Application.task_5.executor": "Run",
+    "Application.tsts_del.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Renat/OneDrive/Desktop/java_inno/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.CashbackCalculator">
     <configuration name="Cactus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntermediateCertification.Task_2.Cactus" />
@@ -220,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719163550469</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;10 december&quot;">
+      <option name="closed" value="true" />
+      <created>1765386179664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765386179664</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +234,8 @@
     <MESSAGE value="&quot;five&quot;" />
     <MESSAGE value="&quot;seven&quot;" />
     <MESSAGE value="&quot;confused&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;confused&quot;" />
+    <MESSAGE value="&quot;10 december&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;10 december&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
